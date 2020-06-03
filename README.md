@@ -1,7 +1,7 @@
-1. imagenes1
-1. color2
+1. imagenes
+2. color
 
-1.codigo3
+3.codigo
 
-   1. color de fuente3a
-   1. color de fondo 3b
+4. color de fuente
+5. color de fondo 
