@@ -4,4 +4,5 @@
 3.codigo
 
 4. color de fuente
-5. color de fondo 
+5. color de fondo
+6. -modificación cristhian Martínez-
